@@ -1,0 +1,9 @@
+1- Microserviços são uma abordagem arquitetônica e organizacional de sofware que
+ consiste em pequenos serviços independentes que se comunicam entre si através d
+e APIs;
+2- Na arquitetura monolítica a aplicação segue no empacotamento de todos os coom
+ponentes em um só, tornando a escabilidade e confiabilidade uma desvantagem.
+Na arquitetura de microserviços a aplicação segue com seus componentes dividos,
+tornando a entrega e gestão uma vantagem;
+3- Implantação mais rápida com prazo de entrega reduzido; Recuperação mais rápida de implantações com falha; Menor risco de inatividade / interrupções devido a falhas nas implantações;
+4- Comunicação via HTTP, Mensagem e Eventos.
